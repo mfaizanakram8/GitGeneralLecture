@@ -1,3 +1,3 @@
 # GitGeneralLecture
 This is general lecture
-nayi manzil 
+nayi manzil llc
